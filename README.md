@@ -49,3 +49,9 @@ The project focuses on transforming raw sales data into a clear, structured, and
 - Clean and structure raw datasets
 - Design business-oriented dashboards
 - Translate data into actionable insights
+
+---
+## 📃 Link Google Sheets
+My project in Google Sheets:
+
+https://docs.google.com/spreadsheets/d/1YvNi-RrC3NdZMyFrXB8KU6SxRWbqGdliECbs9sWcHeM/edit?usp=sharing
