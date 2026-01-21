@@ -1,4 +1,4 @@
-# Project Chocolate Sales Performance
+# Project Google Sheets Chocolate Sales Performance
 This project presents an interactive Excel dashboard designed to analyze chocolate sales performance across multiple countries. The dashboard provides high-level business insights through key performance indicators (KPIs) and visual breakdowns, enabling data-driven decision-making.
 
 The project focuses on transforming raw sales data into a clear, structured, and visually compelling dashboard, simulating a real-world business reporting scenario.
